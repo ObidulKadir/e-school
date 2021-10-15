@@ -80,14 +80,15 @@ header{
     font-size: 36px;
     font-weight: 700;
 }
-.cours-p, #courses p{
+#courses p{
     color: #585859;
-    font-size: 18px;
+    font-size: 16px;
 }
 #courses .card-footer{
     border: none;
     background: #ffffff;
     font-weight: 600;
+
 }
 #courses h5{
     font-weight: 600;
@@ -116,9 +117,7 @@ header{
 }
 
 #testimonials .container{
-
-    margin-bottom: 0;
-    
+    margin-bottom: 0;  
 }
 .footer-row{
     padding: 30px; 
